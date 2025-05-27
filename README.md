@@ -1,4 +1,4 @@
-# SLR Parser in C++
+# SLR Parser
 
 ## 🎯 Aim
 
